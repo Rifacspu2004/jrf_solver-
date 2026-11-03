@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Stop stale JRF app",
+			"type": "shell",
+			"command": "Stop-Process",
+			"args": [
+				"-Id",
+				"15712"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Start JRF app",
+			"type": "shell",
+			"command": "D:\\intern Project\\JRF Problem solver\\.venv\\Scripts\\python.exe",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"app.py"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

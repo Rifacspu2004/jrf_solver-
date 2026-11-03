@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 480 >>
+stream
+BT
+/F1 12 Tf
+50 720 Td
+(UGC NET June 2024 - Computer Science and Applications [Subject Code 87]) Tj
+0 -30 Td
+(Q1. Which of the following scheduling algorithms is non-preemptive?) Tj
+0 -20 Td
+(1) Round Robin  (2) FCFS  (3) SRTF  (4) Priority (Preemptive)) Tj
+0 -40 Td
+(Q2. In relational algebra, which operator is NOT a fundamental operator?) Tj
+0 -20 Td
+(1) Selection  (2) Projection  (3) Natural Join  (4) Cartesian Product) Tj
+0 -40 Td
+(Q3. What is the time complexity to search an element in a balanced AVL tree?) Tj
+0 -20 Td
+(1) O(1)  (2) O(log n)  (3) O(n)  (4) O(n log n)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000224 00000 n 
+0000000755 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+824
+%%EOF
